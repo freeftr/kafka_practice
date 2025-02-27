@@ -34,6 +34,9 @@ public class ConsumerWithSyncCommit {
             for (ConsumerRecord<String, String> record : records) {
                 logger.info("record:{}", record);
             }
+            /**
+             * Poll 이후 오프셋 커밋을 명시적 수행
+             */
             consumer.commitSync();
         }
     }
