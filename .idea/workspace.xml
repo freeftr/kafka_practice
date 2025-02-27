@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee039891-bf09-4a3d-b36f-c1db165c2b0a" name="Changes" comment="" />
+    <list default="true" id="ee039891-bf09-4a3d-b36f-c1db165c2b0a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +35,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/freeftr/kakfa_practice.git&quot;,
-    &quot;accountId&quot;: &quot;d5b09597-9e24-4273-bc2d-bcb74ae38ce3&quot;
+    &quot;url&quot;: &quot;https://github.com/freeftr/kafka_practice.git&quot;,
+    &quot;accountId&quot;: &quot;08cbea03-0157-4497-8d6a-071c58541fb3&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -50,13 +52,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/parkjongha/Documents/Projects/kafka_practice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -87,6 +94,15 @@
       <updated>1740456115071</updated>
       <workItem from="1740456116293" duration="2483000" />
       <workItem from="1740458621002" duration="27000" />
+      <workItem from="1740463366415" duration="43000" />
+      <workItem from="1740463411589" duration="38000" />
+      <workItem from="1740463451197" duration="9000" />
+      <workItem from="1740463462030" duration="50000" />
+      <workItem from="1740463514421" duration="31000" />
+      <workItem from="1740463547489" duration="35000" />
+      <workItem from="1740463584681" duration="14000" />
+      <workItem from="1740463602598" duration="1000" />
+      <workItem from="1740463623510" duration="18000" />
     </task>
     <servers />
   </component>
