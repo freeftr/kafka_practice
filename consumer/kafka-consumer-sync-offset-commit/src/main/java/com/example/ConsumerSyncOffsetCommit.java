@@ -24,6 +24,9 @@ public class ConsumerSyncOffsetCommit {
         configs.put(ConsumerConfig.GROUP_ID_CONFIG, GROUP_ID);
         configs.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
         configs.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
+        /**
+         * 명시적 오프셋 커밋 시 ENABLE_AUTO_COMMIT_CONFIG를 false로 지정해야 함.
+         */
         configs.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, false);
 
         KafkaConsumer<String, String> consumer = new KafkaConsumer<>(configs);
